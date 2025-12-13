@@ -1,7 +1,7 @@
 # 🏠 Boarding House Finder for Students
 
 ***SUSPENDED PRODUCTION OF PROJECT. 
-YOU MAY CONTACT DEVELOPERS***
+YOU MAY CONTACT DEVELOPERS FOR MORE INFO.***
 
 ## 🌐 Live Demo
 
